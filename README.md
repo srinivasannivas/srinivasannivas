@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Srinivasan C!
 
-<!--
-**srinivasannivas/srinivasannivas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Aspiring UI/UX Designer | Android Developer | Data Enthusiast*
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I’m a passionate Computer Science Engineering student who loves turning ideas into functional, user-friendly applications. Whether it’s designing intuitive interfaces, building mobile apps, or exploring data — I enjoy learning and creating with purpose.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+- Design and prototype user interfaces with *Figma, Illustrator, Adobe XD*
+- Build responsive web apps with *HTML, CSS, JavaScript*
+- Develop Android applications using *Java & Firebase*
+- Analyze and visualize data using *Python and analytics tools*
+
+## 🌟 Featured Projects
+- *Smart Bus Booking System*  
+  Web-based ticket booking system using Firebase and JS
+
+- *Personal Portfolio Website*  
+  My creative portfolio built with HTML, CSS, JS
+
+- *Android App (Internship @ Corizo)*  
+  A functional app developed during my internship using Firebase backend
+
+## 📫 Let's Connect
+- *Portfolio*: [srinivasannivas.github.io/Portfolio](https://srinivasannivas.github.io/Portfolio)
+- *LinkedIn*: [linkedin.com/in/srinivasan-designer](https://www.linkedin.com/in/srinivasan-designer)
+- *Email*: c.srinivasan8197@gmail.com
+
+---
+
+Thanks for stopping by!
