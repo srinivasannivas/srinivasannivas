@@ -11,8 +11,6 @@ Welcome to my GitHub! I’m a passionate Computer Science Engineering student wh
 - Analyze and visualize data using *Python and analytics tools*
 
 ## 🌟 Featured Projects
-- *Smart Bus Booking System*  
-  Web-based ticket booking system using Firebase and JS
 
 - *Personal Portfolio Website*  
   My creative portfolio built with HTML, CSS, JS
